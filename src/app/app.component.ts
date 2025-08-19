@@ -15,10 +15,10 @@ import { Component } from '@angular/core';
           <h2>Welcome to Angular + Vite!</h2>
           <p>This is a working Angular application powered by Vite.</p>
           <ul>
-            <li>⚡🔥🔥Lightning fast HMR</li>
-            <li>📦 Optimized bundling</li>
-            <li>🔧 Modern tooling</li>
-             <li>Again by DJ</li>
+            <li>Lightning fast HMR</li>
+            <li> Optimized bundling</li>
+            <li> Modern tooling</li>
+             <li>hello there</li>
           </ul>
         </div>
         
@@ -53,7 +53,7 @@ import { Component } from '@angular/core';
     }
     
     .card {
-     background: linear-gradient(135deg, #e4b858ff 0%, #764ba2 100%);
+     background: yellow;
       color: white;
       padding: 2rem;
       border-radius: 12px;
