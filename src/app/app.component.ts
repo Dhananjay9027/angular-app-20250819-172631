@@ -15,7 +15,7 @@ import { Component } from '@angular/core';
           <h2>Welcome to Angular + Vite!</h2>
           <p>This is a working Angular application powered by Vite.</p>
           <ul>
-            <li>⚡🔥🔥🔥🔥Lightning fast HMR</li>
+            <li>⚡Lightning fast HMR</li>
             <li>📦 Optimized bundling</li>
             <li>🔧 Modern tooling</li>
           </ul>
@@ -123,7 +123,7 @@ export class AppComponent {
   counter = 0;
 
   incrementCounter() {
-    this.counter++;
+    this.counter+=3;
   }
 
   resetCounter() {
