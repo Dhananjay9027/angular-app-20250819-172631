@@ -18,7 +18,7 @@ import { Component } from '@angular/core';
             <li>⚡🔥🔥Lightning fast HMR</li>
             <li>📦 Optimized bundling</li>
             <li>🔧 Modern tooling</li>
-             <li>Again chnage by Dhananjay</li>
+             <li>Again by DJ</li>
           </ul>
         </div>
         
@@ -53,7 +53,7 @@ import { Component } from '@angular/core';
     }
     
     .card {
-      background: linear-gradient(135deg, #e4b858ff 0%, #764ba2 100%);
+     background: linear-gradient(135deg, pink 0%, yellow 100%);
       color: white;
       padding: 2rem;
       border-radius: 12px;
