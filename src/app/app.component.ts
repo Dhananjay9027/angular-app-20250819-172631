@@ -18,6 +18,7 @@ import { Component } from '@angular/core';
             <li>⚡🔥🔥Lightning fast HMR</li>
             <li>📦 Optimized bundling</li>
             <li>🔧 Modern tooling</li>
+             <li>Chnaged by Dhananjay</li>
           </ul>
         </div>
         
@@ -123,7 +124,7 @@ export class AppComponent {
   counter = 0;
 
   incrementCounter() {
-    this.counter+=3;
+    this.counter++;
   }
 
   resetCounter() {
