@@ -18,7 +18,7 @@ import { Component } from '@angular/core';
             <li>⚡🔥🔥Lightning fast HMR</li>
             <li>📦 Optimized bundling</li>
             <li>🔧 Modern tooling</li>
-             <li>Chnaged by Dhananjay</li>
+             <li>Again chnage by Dhananjay</li>
           </ul>
         </div>
         
@@ -92,7 +92,7 @@ import { Component } from '@angular/core';
     }
     
     button:first-child {
-      background: #ff00ccff;
+      background: #ff308a;
       color: white;
     }
     
